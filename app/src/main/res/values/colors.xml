@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="first_clr">#008080</color>
+    <color name="second_clr">#4d0099</color>
+    <color name="third_clr">#e6005c</color>
+    <color name="fourth_clr">#53ff1a</color>
+    <color name="fifth_clr">#001a00</color>
+</resources>
