@@ -8,14 +8,26 @@
     tools:context=".StartGameActivity"
     android:orientation="vertical">
 
-    <EditText
-        android:layout_width="wrap_content"
+    <TextView
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="60dp"
+        android:background="@color/primary"
         android:gravity="center"
-        android:text="Try solving the following FizzBuzz problem"
-        android:textSize="20sp" />
+        android:padding="16dp"
+        android:text="FizzBuzz Game"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="Try solving the problem!!"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
 
     <TextView
         android:layout_width="match_parent"

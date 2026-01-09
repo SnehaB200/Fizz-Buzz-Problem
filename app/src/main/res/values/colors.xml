@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="white">#fff</color>
+    <color name="primary">#ff1a1a</color>
     <color name="first_clr">#008080</color>
     <color name="second_clr">#4d0099</color>
     <color name="third_clr">#e6005c</color>
